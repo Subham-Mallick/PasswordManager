@@ -6,5 +6,3 @@ password
 note
 
 fill it and save it for default databse.
-
-.::][Protron][::.
